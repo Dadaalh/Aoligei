@@ -9,6 +9,7 @@
 
 # 自己节点：
 
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLlpaXliKnnu5npppnmuK8xIiwKICAiYWRkIjogImFsZ2hrLmFubXUub25lIiwKICAicG9ydCI6IDE0MDExLAogICJpZCI6ICI2NDI2NzMzNi0wM2ZiLTRiODktYzQ1MC1jYTQzODlmN2QzN2EiLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgInRscyI6ICJ0bHMiCn0=
 
 #--------------------------------------------------=======================================---------------------------------------------------
 #--------------------------------------------------==================备用==================--------------------------------------------------
