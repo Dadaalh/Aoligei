@@ -9,6 +9,8 @@
 
 # 自己节点：
 
+
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLlpaXliKnnu5npppnmuK8yIiwKICAiYWRkIjogImFsZ2hrLmFubXUub25lIiwKICAicG9ydCI6IDE0MjQ5LAogICJpZCI6ICI1ZmJjZjQ1Yy01ZWEwLTQ2NjAtODMwYy1jYTFhNWU1MWFmNmMiLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgInRscyI6ICJ0bHMiCn0=
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLlpaXliKnnu5npppnmuK8xIiwKICAiYWRkIjogImFsZ2hrLmFubXUub25lIiwKICAicG9ydCI6IDE0MDExLAogICJpZCI6ICI2NDI2NzMzNi0wM2ZiLTRiODktYzQ1MC1jYTQzODlmN2QzN2EiLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgInRscyI6ICJ0bHMiCn0=
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLlpaXliKnnu5npppnmuK8zIiwKICAiYWRkIjogImFsZ2hrLmFubXUub25lIiwKICAicG9ydCI6IDQwMTgxLAogICJpZCI6ICJkZGRlYjc4YS0xNzgwLTQyMzQtZTVlMC04MGM1MGM0NGFjYTIiLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgInRscyI6ICJ0bHMiCn0=
 #--------------------------------------------------=======================================---------------------------------------------------
