@@ -24,6 +24,12 @@ trojan://63d7b7bb-e526-3ea5-a61f-9da6df645da0@scloud54.jafiyun.life:22054?allowI
 trojan://22bb4f67-e5c1-414f-b62a-88d6f1d0e8a9@o021.trojan.tel:18443?allowInsecure=1&peer=douyincdn.com#%E5%A5%A5%E5%88%A9%E7%BB%9913
 trojan://6ba87c27-a1f0-4702-9c4e-3cba6fbd7e93@67tw01.fans8.xyz:443?allowInsecure=1&peer=67tw01.fans8.xyz#%E5%A5%A5%E5%88%A9%E7%BB%9914
 trojan://80114348-eea5-43b3-8705-2da4430d3074@flb.alinkrelay.com:12000?allowInsecure=1&peer=flb.alinkrelay.com#%E5%A5%A5%E5%88%A9%E7%BB%9915
+trojan://97808a17-2e97-3840-8a36-b7bc5203200c@azgy001.xiba1.xyz:20713/?peer=ssl.ssl12.xyz#%E5%A5%A5%E5%88%A9%E7%BB%9916
+trojan://7dafe71e-2be6-302f-bdfc-e6319a3299bc@tj-us01.yiyodns.xyz:443/?allowInsecure=1#%E5%A5%A5%E5%88%A9%E7%BB%9917
+trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s1.hazz.win:12340/?allowInsecure=1&peer=edge.apple.com#%E5%A5%A5%E5%88%A9%E7%BB%9918
+trojan://3fb3b8b4e9@37.123.192.9:443/?allowInsecure=1#%E5%A5%A5%E5%88%A9%E7%BB%9919
+trojan://LiX1tV@141.98.168.251:443/?allowInsecure=1&peer=cdnu2.ft2.us#%E5%A5%A5%E5%88%A9%E7%BB%9920
+
 
 
 
