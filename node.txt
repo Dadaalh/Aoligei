@@ -9,42 +9,51 @@
 
 # 自己节点：
 
-https://zgnmmtjjn2u3zdoynmjhztlimdizqgg5njezntkuc3ryb25ncglwzs5saxzlojexntq1/?peer=h961359.strongpipe.live#%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3
+trojan://5f828b55-4967-41f3-99df-873e9eddcfca@da.kanao.xyz:58824/?allowInsecure=1#%E6%A1%89%E5%AE%89
 
-trojan://71e55461-1f57-4a1e-a6a7-f3fccb908544@103.173.255.21:28443/?peer=glcvn150.hruqoaw.cn&tfo=1#%E6%A1%89%E5%AE%89%F0%9F%87%BB%F0%9F%87%B3
+trojan://5f828b55-4967-41f3-99df-873e9eddcfca@da.kanao.xyz:58811/?allowInsecure=1#%E6%A1%89%E5%AE%89
 
-trojan://71e55461-1f57-4a1e-a6a7-f3fccb908544@103.173.255.228:28443/?peer=glcvn150.hruqoaw.cn&tfo=1#%E6%A1%89%E5%AE%89%F0%9F%87%BB%F0%9F%87%B3
+trojan://5f828b55-4967-41f3-99df-873e9eddcfca@da.kanao.xyz:58828/?allowInsecure=1#%E6%A1%89%E5%AE%89
 
-trojan://71e55461-1f57-4a1e-a6a7-f3fccb908544@210.0.158.220:28443/?peer=download.windowsupdate1.com&tfo=1#%E6%A1%89%E5%AE%89%F0%9F%87%AD%F0%9F%87%B0
+ssr://MTgzLjIzMi4xNDEuODI6NTYwOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_cmVtYXJrcz01cUdKNWE2SiZwcm90b3BhcmFtPU5UTTVNalU2YUdwbmFuVjVOblEyTlRWcWFtYyZvYmZzcGFyYW09
 
-trojan://71e55461-1f57-4a1e-a6a7-f3fccb908544@172.105.65.61:28443/?peer=download.windowsupdate1.com&tfo=1#%E6%A1%89%E5%AE%89%F0%9F%87%A9%F0%9F%87%AA
+ssr://MTgzLjIzMi4xNDEuMTE5OjU2MTphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpiV0pzWVc1ck1YQnZjblEvP3JlbWFya3M9NXFHSjVhNkomcHJvdG9wYXJhbT1OVE01TWpVNmFHcG5hblY1Tm5RMk5UVnFhbWMmb2Jmc3BhcmFtPVdrVk5NV1JHY0ZSUFZFcHFVbnBXZGxkV2FGSQ
 
-trojan://71e55461-1f57-4a1e-a6a7-f3fccb908544@hinet.52147.top:28443/?peer=glchinet1.hruqoaw.cn&tfo=1#%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3
+ssr://MTE2LjE2Mi4xMjAuMjM6NTYyOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_cmVtYXJrcz01cUdKNWE2SiZwcm90b3BhcmFtPU5UTTVNalU2YUdwbmFuVjVOblEyTlRWcWFtYyZvYmZzcGFyYW09
 
-trojan://71e55461-1f57-4a1e-a6a7-f3fccb908544@155.248.172.87:28443/?peer=download.windowsupdate1.com&tfo=1#%E6%A1%89%E5%AE%89%F0%9F%87%AF%F0%9F%87%B5
+ssr://MjIzLjE2Ni4xNDUuMTUzOjU2ODphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpiV0pzWVc1ck1YQnZjblEvP3JlbWFya3M9NXFHSjVhNkomcHJvdG9wYXJhbT1OVE01TWpVNmFHcG5hblY1Tm5RMk5UVnFhbWMmb2Jmc3BhcmFtPQ
 
-vmess://YXV0bzplNTUwMjQ5Zi0yZWIwLTNlNjQtOGNkOC01Yzk3N2E2OGE1NTRAeG1yaDAxNC54bXJ0aC1ub2RlLnh5ejoxNTg4NQ?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%AD%F0%9F%87%B0&obfsParam=87318706-ws.va.huya.com&path=/index&obfs=websocket&alterId=0
+ssr://MjIzLjE2Ni4xNDUuMTUzOjU2NTphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpiV0pzWVc1ck1YQnZjblEvP3JlbWFya3M9NXFHSjVhNkomcHJvdG9wYXJhbT1OVE01TWpVNmFHcG5hblY1Tm5RMk5UVnFhbWMmb2Jmc3BhcmFtPQ
 
-vmess://YXV0bzplNTUwMjQ5Zi0yZWIwLTNlNjQtOGNkOC01Yzk3N2E2OGE1NTRAeG1yaDAwMC54bXJ0aC1ub2RlLnh5ejoxNTg4MA?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%AD%F0%9F%87%B0&obfsParam=87318706-ws.va.huya.com&path=/index&obfs=websocket&alterId=0
+ssr://MjIzLjE2Ni4xNDUuMTUzOjU2NTphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpiV0pzWVc1ck1YQnZjblEvP3JlbWFya3M9NXFHSjVhNkomcHJvdG9wYXJhbT1OVE01TWpVNmFHcG5hblY1Tm5RMk5UVnFhbWMmb2Jmc3BhcmFtPQ
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5YzdhNDlhMi1kZGZmLTQ2NTQtOTI1Yi1iYWE3OTEzZGJjNTZAY3MuYWxodHRkdy5jbjozOTEzNA#%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3
+ssr://dXNzdGFydHVzMi5ldWNkdXJsLm1lOjU2OTphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpiV0pzWVc1ck1YQnZjblEvP3JlbWFya3M9NXFHSjVhNkomcHJvdG9wYXJhbT1OVEV6TmpFNk5qZHRaa2xVYjB3NE5GQnVXbkV3WkEmb2Jmc3BhcmFtPQ
 
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDFANjUuNDkuMTkzLjUxOjI1NA#%E6%A1%89%E5%AE%89%F0%9F%87%BA%F0%9F%87%B8
+ssr://MTE2LjE2Mi4xMjAuMjM6NTYxOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_cmVtYXJrcz01cUdKNWE2SiZwcm90b3BhcmFtPU5UTTVNalU2YUdwbmFuVjVOblEyTlRWcWFtYyZvYmZzcGFyYW09
 
-trojan://c9a3a61d-5d49-4158-9e60-6fa32684b122@cm.spacez.cloud:30002/?allowInsecure=1#%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3
+ssr://MTE2LjE2Mi4xMjAuMjM6NjExOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_cmVtYXJrcz01cUdKNWE2SiZwcm90b3BhcmFtPU5UTTVNalU2YUdwbmFuVjVOblEyTlRWcWFtYyZvYmZzcGFyYW09
 
-vmess://YXV0bzowMjUzYjU3NC04MDIwLTMxODYtYTY0Ny0wMjY3Mjk1YWM5YmJAYWxpeXVuLm1vYmxlLnZudXBnY24uY246OTAwOQ?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3&path=/&obfs=none&alterId=0
+ssr://MTE2LjE2Mi4xMjAuMjM6NjIwOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_cmVtYXJrcz01cUdKNWE2SiZwcm90b3BhcmFtPU5UTTVNalU2YUdwbmFuVjVOblEyTlRWcWFtYyZvYmZzcGFyYW09
 
-vmess://YXV0bzoyNDRlZmZkOS0wMjA0LTNjNGEtODUzNy0wZGNhNGU1ZmQ5YjVANC5oay56ei54eHh4eC54LXQtZnVja3dvcmQubmV0d29yazozNjY3Ng?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3&path=/&obfs=none&alterId=0
+trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@144.24.90.94:28443/?allowInsecure=1&peer=glc.hruqoaw.cn#%E6%A1%89%E5%AE%89
 
-vmess://YXV0bzowMjUzYjU3NC04MDIwLTMxODYtYTY0Ny0wMjY3Mjk1YWM5YmJAYWxpeXVuLnVuaWNvbS52bnVwZ2NuLmNuOjkwMjc?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3&path=/&obfs=none&alterId=0
+trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@144.24.69.60:28443/?allowInsecure=1&peer=glc.hruqoaw.cn#%E6%A1%89%E5%AE%89
 
-vmess://YXV0bzowMjUzYjU3NC04MDIwLTMxODYtYTY0Ny0wMjY3Mjk1YWM5YmJAYWxpeXVuLnVuaWNvbS52bnVwZ2NuLmNuOjkwMjM?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3&path=/&obfs=none&alterId=0
+trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@144.24.77.154:28443/?allowInsecure=1&peer=glc.hruqoaw.cn#%E6%A1%89%E5%AE%89
 
-vmess://YXV0bzowMjUzYjU3NC04MDIwLTMxODYtYTY0Ny0wMjY3Mjk1YWM5YmJAYWxpeXVuLm1vYmxlLnZudXBnY24uY246OTAxOQ?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3&path=/&obfs=none&alterId=0
+trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@download1hkt.windowsupdate1.com:28443/?allowInsecure=1&peer=glc.hruqoaw.cn#%E6%A1%89%E5%AE%89
 
-vmess://YXV0bzowMjUzYjU3NC04MDIwLTMxODYtYTY0Ny0wMjY3Mjk1YWM5YmJAYWxpeXVuLm1vYmxlLnZudXBnY24uY246OTAyMQ?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3&path=/&obfs=none&alterId=0
+trojan://db9b6698-f01c-4fe1-93ca-d752c956c2d3@kr1.api-aws.com:443/?allowInsecure=1#%E6%A1%89%E5%AE%89
 
+trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@download2tw.windowsupdate1.com:28443/?allowInsecure=1&peer=glc.hruqoaw.cn#%E6%A1%89%E5%AE%89
+
+trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@download1tw.windowsupdate1.com:28443/?allowInsecure=1&peer=glc.hruqoaw.cn#%E6%A1%89%E5%AE%89
+
+trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443/?allowInsecure=1&peer=glc.hruqoaw.cn#%E6%A1%89%E5%AE%89
+
+trojan://c09eb137-bf68-4658-84e0-102d94b74168@jgwdj4.gaox.ml:443/?allowInsecure=1#%E6%A1%89%E5%AE%89
+
+trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@103.195.236.24:28443/?allowInsecure=1&peer=glc.hruqoaw.cn#%E6%A1%89%E5%AE%89
 
 
 
