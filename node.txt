@@ -8,58 +8,38 @@
 
 
 # 自己节点：
-ssr://c2gxNjMuc2FmZXRlbGVzY29wZS5jYzoxMDAyMDphdXRoX2FlczEyOF9tZDU6YWVzLTI1Ni1jZmI6dGxzMS4yX3RpY2tldF9hdXRoOmFFZHJVVFk1TVRWMFJBLz9yZW1hcmtzPTVxR0o1YTZKJnByb3RvcGFyYW09TXpjek9EQTZhelJXU2psVGVVRjFNdyZvYmZzcGFyYW09WVdwaGVDNXRhV055YjNOdlpuUXVZMjl0
 
-trojan://5f828b55-4967-41f3-99df-873e9eddcfca@da.kanao.xyz:58824/?allowInsecure=1#%E6%A1%89%E5%AE%89
+trojan://30030B00-A596-87B4-965A-511CD7E05351@oss-cn-shanghai.westdatacloud.xyz:20048/?allowInsecure=1#%E6%A1%89%E5%AE%89%20%F0%9F%87%A8%F0%9F%87%B3
 
-trojan://5f828b55-4967-41f3-99df-873e9eddcfca@da.kanao.xyz:58811/?allowInsecure=1#%E6%A1%89%E5%AE%89
+trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443/?allowInsecure=1&peer=arbettp.freetrade.link#%E6%A1%89%E5%AE%89%F0%9F%87%AD%F0%9F%87%B0
 
-trojan://5f828b55-4967-41f3-99df-873e9eddcfca@da.kanao.xyz:58828/?allowInsecure=1#%E6%A1%89%E5%AE%89
+trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@219.76.13.180:443/?allowInsecure=1&peer=stutter.freetrade.link#%E6%A1%89%E5%AE%89%20%F0%9F%87%AD%F0%9F%87%B0
 
-ssr://MTgzLjIzMi4xNDEuODI6NTYwOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_cmVtYXJrcz01cUdKNWE2SiZwcm90b3BhcmFtPU5UTTVNalU2YUdwbmFuVjVOblEyTlRWcWFtYyZvYmZzcGFyYW09
+trojan://idc117okt@103.226.139.201:443/?allowInsecure=1#%E6%A1%89%E5%AE%89%20%F0%9F%87%AE%F0%9F%87%A9
 
-ssr://MTgzLjIzMi4xNDEuMTE5OjU2MTphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpiV0pzWVc1ck1YQnZjblEvP3JlbWFya3M9NXFHSjVhNkomcHJvdG9wYXJhbT1OVE01TWpVNmFHcG5hblY1Tm5RMk5UVnFhbWMmb2Jmc3BhcmFtPVdrVk5NV1JHY0ZSUFZFcHFVbnBXZGxkV2FGSQ
+trojan://ZRYSly2IRuFlgpZCaep3Ey3DDXqTDczO04aeC8F36OjaYSCABnA573wN8xxK9S@121.78.213.3:443/?allowInsecure=1&peer=httah.freetrade.link#%E6%A1%89%E5%AE%89%F0%9F%87%B0%F0%9F%87%B7
 
-ssr://MTE2LjE2Mi4xMjAuMjM6NTYyOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_cmVtYXJrcz01cUdKNWE2SiZwcm90b3BhcmFtPU5UTTVNalU2YUdwbmFuVjVOblEyTlRWcWFtYyZvYmZzcGFyYW09
+trojan://TaSXwOxORaZ7pD8DlzCE3yNFS5C38eeCuDng03FcA4BSpjK96YaZRIAlx2yqY3@45.64.22.55:443/?allowInsecure=1&peer=mhkla.freetrade.link#%E6%A1%89%E5%AE%89%F0%9F%87%B2%F0%9F%87%B4
 
-ssr://MjIzLjE2Ni4xNDUuMTUzOjU2ODphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpiV0pzWVc1ck1YQnZjblEvP3JlbWFya3M9NXFHSjVhNkomcHJvdG9wYXJhbT1OVE01TWpVNmFHcG5hblY1Tm5RMk5UVnFhbWMmb2Jmc3BhcmFtPQ
+vmess://YXV0bzoyRjA5NDg0NS1FMkJELUVCRjctREVCNy05OTU5OTI0MzZGQUZAOTEuMjQzLjgyLjE1OjM0MTQ3?remarks=%E6%A1%89%E5%AE%89%20%F0%9F%87%B3%F0%9F%87%B1&path=/&obfs=none&tls=1&alterId=0
 
-ssr://MjIzLjE2Ni4xNDUuMTUzOjU2NTphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpiV0pzWVc1ck1YQnZjblEvP3JlbWFya3M9NXFHSjVhNkomcHJvdG9wYXJhbT1OVE01TWpVNmFHcG5hblY1Tm5RMk5UVnFhbWMmb2Jmc3BhcmFtPQ
+vmess://YXV0bzpmNjc4NTJlYi05NDU0LTQ2YjQtOWU2OS02YzU2ZTY0NmVhNDlAMTU0Ljg1LjU2LjE0MDozOTI1Ng?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%BA%F0%9F%87%B8&path=/&obfs=none&alterId=0
 
-ssr://MjIzLjE2Ni4xNDUuMTUzOjU2NTphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpiV0pzWVc1ck1YQnZjblEvP3JlbWFya3M9NXFHSjVhNkomcHJvdG9wYXJhbT1OVE01TWpVNmFHcG5hblY1Tm5RMk5UVnFhbWMmb2Jmc3BhcmFtPQ
+vmess://YXV0bzowNDc5ZWI5ZC05OTlkLTRiZmYtYWUzZi00ZjdjYzQ0MGNlNDZANjYuMjEyLjIwLjM6NDQz?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%BA%F0%9F%87%B8&obfsParam=v2ray2.ssr-free2.xyz&path=/dongtaiwang.com&obfs=websocket&tls=1&alterId=0
 
-ssr://dXNzdGFydHVzMi5ldWNkdXJsLm1lOjU2OTphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpiV0pzWVc1ck1YQnZjblEvP3JlbWFya3M9NXFHSjVhNkomcHJvdG9wYXJhbT1OVEV6TmpFNk5qZHRaa2xVYjB3NE5GQnVXbkV3WkEmb2Jmc3BhcmFtPQ
+vmess://YXV0bzo3MWU4N2FlYy0xNTY5LTRmMGEtYzJjMi03NzE3NmI2NmYwYmNAbWpqMzAwNi5oamRuLnRrOjQ0Mw?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%BA%F0%9F%87%B8&obfsParam=mjj3006.hjdn.tk&path=/&obfs=websocket&tls=1&alterId=0
 
-ssr://MTE2LjE2Mi4xMjAuMjM6NTYxOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_cmVtYXJrcz01cUdKNWE2SiZwcm90b3BhcmFtPU5UTTVNalU2YUdwbmFuVjVOblEyTlRWcWFtYyZvYmZzcGFyYW09
+vmess://YXV0bzo2YzA4NmZjYy02YjA1LTRhMjgtOWMzZC0zMGE5NDk1ODViMjVAMTU0Ljg1LjYyLjIxOTo1NjkyNA?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%BA%F0%9F%87%B8&path=/&obfs=none&alterId=0
 
-ssr://MTE2LjE2Mi4xMjAuMjM6NjExOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_cmVtYXJrcz01cUdKNWE2SiZwcm90b3BhcmFtPU5UTTVNalU2YUdwbmFuVjVOblEyTlRWcWFtYyZvYmZzcGFyYW09
+vmess://YXV0bzowM2ZjOGEyZC1mMTQwLTRhNjItODFlYy04MGFjNjIzODkzZjBAMTU2LjI0MC4xMTUuMTUxOjI4MDgw?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%BF%F0%9F%87%A6&path=/&obfs=none&alterId=0
 
-ssr://MTE2LjE2Mi4xMjAuMjM6NjIwOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_cmVtYXJrcz01cUdKNWE2SiZwcm90b3BhcmFtPU5UTTVNalU2YUdwbmFuVjVOblEyTlRWcWFtYyZvYmZzcGFyYW09
+vmess://YXV0bzpkMDRkNTQ5Zi1jZThmLTRjMDItODRhYS00MTRmYTdkNDM3ZjhAMTU2LjI0MC4xMTUuMTQ0OjYwNDg5?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%BF%F0%9F%87%A6&path=/&obfs=none&alterId=0
 
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@144.24.90.94:28443/?allowInsecure=1&peer=glc.hruqoaw.cn#%E6%A1%89%E5%AE%89
+vmess://YXV0bzplMWQxYzE1My0wYWQ0LTRkOWItYTAyMS0wOTNmNzdkMGY5NGJAMTU2LjI0MC4xMTQuMjA6NDQ5NTc?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%BF%F0%9F%87%A6&path=/&obfs=none&alterId=0
 
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@144.24.69.60:28443/?allowInsecure=1&peer=glc.hruqoaw.cn#%E6%A1%89%E5%AE%89
+vmess://YXV0bzpjMTFkODY5NS0wOTNiLTQ4NjAtYjA2Ni1jNjdiNzc3ZDVhNThAMTU2LjI0MC4xMTIuNTg6NTExNzI?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%BF%F0%9F%87%A6&path=/&obfs=none&alterId=0
 
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@144.24.77.154:28443/?allowInsecure=1&peer=glc.hruqoaw.cn#%E6%A1%89%E5%AE%89
-
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@download1hkt.windowsupdate1.com:28443/?allowInsecure=1&peer=glc.hruqoaw.cn#%E6%A1%89%E5%AE%89
-
-trojan://db9b6698-f01c-4fe1-93ca-d752c956c2d3@kr1.api-aws.com:443/?allowInsecure=1#%E6%A1%89%E5%AE%89
-
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@download2tw.windowsupdate1.com:28443/?allowInsecure=1&peer=glc.hruqoaw.cn#%E6%A1%89%E5%AE%89
-
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@download1tw.windowsupdate1.com:28443/?allowInsecure=1&peer=glc.hruqoaw.cn#%E6%A1%89%E5%AE%89
-
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443/?allowInsecure=1&peer=glc.hruqoaw.cn#%E6%A1%89%E5%AE%89
-
-trojan://c09eb137-bf68-4658-84e0-102d94b74168@jgwdj4.gaox.ml:443/?allowInsecure=1#%E6%A1%89%E5%AE%89
-
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@103.195.236.24:28443/?allowInsecure=1&peer=glc.hruqoaw.cn#%E6%A1%89%E5%AE%89
-
-ssr://c2gxNjMuc2FmZXRlbGVzY29wZS5jYzoxMDAyMDphdXRoX2FlczEyOF9tZDU6YWVzLTI1Ni1jZmI6dGxzMS4yX3RpY2tldF9hdXRoOmFFZHJVVFk1TVRWMFJBLz9yZW1hcmtzPTVxR0o1YTZKJnByb3RvcGFyYW09TXpjek9EQTZhelJXU2psVGVVRjFNdyZvYmZzcGFyYW09WVdwaGVDNXRhV055YjNOdlpuUXVZMjl0
-
-ssr://Z3p5ZC0wMS5jY3RlbGVzY29wZS54eXo6NDE5OTg6YXV0aF9hZXMxMjhfbWQ1OmFlcy0yNTYtY2ZiOnRsczEuMl90aWNrZXRfYXV0aDphRWRyVVRZNU1UVjBSQS8_cmVtYXJrcz01cUdKNWE2SiZwcm90b3BhcmFtPU16Y3pPREE2YXpSV1NqbFRlVUYxTXcmb2Jmc3BhcmFtPVlXcGhlQzV0YVdOeWIzTnZablF1WTI5dA
-
+vmess://YXV0bzpkYzQxY2MyZC1hY2Q1LTQwZjEtYmJkMi1hYWMzMDY1ZDJiN2FAMTU2LjI0MC4xMTIuNTk6NjQyODY?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%BF%F0%9F%87%A6&path=/&obfs=none&alterId=0
 
 #--------------------------------------------------=======================================---------------------------------------------------
 #--------------------------------------------------==================备用==================--------------------------------------------------
