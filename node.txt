@@ -9,40 +9,51 @@
 
 # 自己节点：
 
-trojan://f1963001-20c7-464b-8a66-c15ba6f798d0@cm.henet.top:20007/?allowInsecure=1#%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3
+trojan://6ca54341-6410-3586-a831-e46006faa78e@211.99.96.117:65022/?allowInsecure=1&peer=dl.sg6.cc.tjcct.xyz#%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3
+
+vmess://YXV0bzo5NjlhMjQ0NS0wNGQ4LTNmMzUtYWJlMC0xNWZkMzFlMDU1ODVAcHB5LW1vYmxlLmdhdGtucWguY246MjYwMTM?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3&path=/&obfs=none&alterId=0
 
 trojan://30030B00-A596-87B4-965A-511CD7E05351@oss-cn-shanghai.westdatacloud.xyz:20048/?allowInsecure=1#%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3
 
-vmess://YXV0bzoxNzZiNTk4Zi00NDViLTQxYWMtOWQyYS00MzBjNWM0ZGYyNmFANTEuNzUuNzAuMzQ6NDQz?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%A9%F0%9F%87%AA&obfsParam=clash1.trump2023.net&path=/dongtaiwang.com&obfs=websocket&tls=1&alterId=0
+vmess://YXV0bzo5NjlhMjQ0NS0wNGQ4LTNmMzUtYWJlMC0xNWZkMzFlMDU1ODVAcHB5LW1vYmxlLmdhdGtucWguY246MjYwMTI?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3&path=/&obfs=none&alterId=0
 
-vmess://YXV0bzo2MTc0YTU4NS05YTE0LTRhMzAtODFkNC0wNzYzNzYzMjUzMjhANTEuMTYxLjE1Mi4xODA6ODA?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%AB%F0%9F%87%B7&obfsParam=51.161.152.180&path=/vmess&obfs=websocket&alterId=0
+ss://YWVzLTEyOC1nY206YWMxYjI4ODg4ODkzNDBlYkB5dHFhdnhnLmNpdnhray5sb2w6NDY2ODE#%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3
 
-trojan://ZFYOpKqD8uEClpZ2ya83cyCDalwSOYz3F3eCxnBD4eSXNSR5R0aAATj7I3x69g@219.76.13.180:443/?allowInsecure=1&peer=golang.protocolbuffer.com#%E6%A1%89%E5%AE%89%F0%9F%87%AD%F0%9F%87%B0
+ss://YWVzLTEyOC1nY206MDlhNDA2MjEtMWM4OC00ODJjLTlkMmEtMmNiNTZhMTJkYzc3QGNhdG5ldC1tb2JsZS5nYXRrbnFoLmNuOjExMDAz#%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3
 
-trojan://ZFYOpKqD8uEClpZ2ya83cyCDalwSOYz3F3eCxnBD4eSXNSR5R0aAATj7I3x69g@219.76.13.175:443/?allowInsecure=1&peer=golang.protocolbuffer.com#%E6%A1%89%E5%AE%89%F0%9F%87%AD%F0%9F%87%B0
+vmess://YXV0bzo5NjlhMjQ0NS0wNGQ4LTNmMzUtYWJlMC0xNWZkMzFlMDU1ODVAcHB5LW1vYmxlLmdhdGtucWguY246MjYwMTE?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3&path=/&obfs=none&alterId=0
 
-vmess://YXV0bzo2MDkzZWVmYi03YWI2LTQxZGYtYWJhMC1kNWZhNTgxNDdlMTBAMTE5LjI0Ny4xMTkuMjEyOjQ0Mw?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%AD%F0%9F%87%B0&obfsParam=surongwei.eu.org&path=/reffs7y26g0ua&obfs=websocket&tls=1&alterId=0
+vmess://YXV0bzo5NjlhMjQ0NS0wNGQ4LTNmMzUtYWJlMC0xNWZkMzFlMDU1ODVAcHB5LW1vYmxlLmdhdGtucWguY246MjYwNTk?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3&path=/&obfs=none&alterId=0
 
-vmess://YXV0bzpjMjVhMWM5YS0xYzcxLTRjNTgtYWZiYS02NmVlZDczOGIyMmJAOC4yMTAuMjM0LjE4OTo0NjY0NA?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%B8%F0%9F%87%AC&path=/&obfs=none&alterId=0
+trojan://83a3b688-04e5-3c28-85b7-82698a174e41@20016.purefast2.com:20016/?allowInsecure=1&peer=purefast1.com#%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3
 
-vmess://YXV0bzoyNGNmZDI4Yy1hM2Q3LTQwMjgtODllOC1iMjVmZGNiMjhiYWNAOC4yMTAuMzQuMjEyOjUxNTc4?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%B8%F0%9F%87%AC&path=/&obfs=none&alterId=0
+vmess://YXV0bzo5NjlhMjQ0NS0wNGQ4LTNmMzUtYWJlMC0xNWZkMzFlMDU1ODVAcHB5LW1vYmxlLmdhdGtucWguY246MjYwMjA?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3&path=/cctv13/hd.m3u8&obfs=none&alterId=0
 
-vmess://YXV0bzpiZjZiYzM5ZS05NDUzLTQzYjMtODA1ZS03ZjExOTY1OTgxYTRAOC4yMTguODYuMjI2OjUxNjE2?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%B8%F0%9F%87%AC&path=/&obfs=none&alterId=0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTQ4M2RkOC01OTAxLTQ1MzAtYjQ0ZC0wY2ZiZjFjMTZkZGJAaGsuZ2lsc2ZlLmNuOjQ1MTAz#%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3
 
-vmess://YXV0bzo3MjM1NmJmNy00ODdiLTQyYzAtYTdmMi04NDUxMzZiMzM1MDNAOC4yMTguODYuMjUwOjIyMzYy?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%B8%F0%9F%87%AC&path=/&obfs=none&alterId=0
+ss://YWVzLTEyOC1nY206MDlhNDA2MjEtMWM4OC00ODJjLTlkMmEtMmNiNTZhMTJkYzc3QGNhdG5ldC1tb2JsZS5nYXRrbnFoLmNuOjExMDM1#%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3
 
-vmess://YXV0bzowY2QyZTJjMC1lZjRmLTRhNDktYTg5Zi1lZTI1NTJhZWQyNDdAOC4yMTguODUuNDM6NDM2NDU?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%B8%F0%9F%87%AC&path=/&obfs=none&alterId=0
+vmess://YXV0bzpiMjg0MTdjZC0zNWI1LTMxYzEtOGFjZS1kNTEyOGY2MGZmYWRAaW4wMy5teTExODgub3JnOjYzMDE0?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3&obfsParam=mugua-us01.covid19.rip&path=/mg&obfs=websocket&tls=1&alterId=0
 
-vmess://YXV0bzoyYWZkMGM5Zi01N2ZhLTQ3NzMtODY4Ni1iNDgwZThiZTU4MTRAOC4yMTAuMS40NDo2MzAyMA?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%B8%F0%9F%87%AC&path=/&obfs=none&alterId=0
+ss://YWVzLTEyOC1nY206OGUxZGQyYjctNzdmZS00Zjg1LWExMDItMzgyZjAwYjBiZjZiQGN0My5zaGl5dWFuZGlhbi54eXo6MTAwMDI#%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3
 
-vmess://YXV0bzo3ZGFmMGQzZC04Yzc0LTRmNDYtODkxMi1mYmY1OWJlMDVlMzlANDcuMjQyLjI0My4yMTg6NDg0NzE?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%BA%F0%9F%87%B8&path=/&obfs=none&alterId=0
+ss://YWVzLTEyOC1nY206MDlhNDA2MjEtMWM4OC00ODJjLTlkMmEtMmNiNTZhMTJkYzc3QGNhdG5ldC1tb2JsZS5nYXRrbnFoLmNuOjExMDA1#%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3
 
-vmess://YXV0bzphZDE0NTRhNC1jOWUyLTQ4MzYtYzk4ZC02NmUzNjQ2YzJhYTRAaDUubWl5dW4ucHJvOjIwODY?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%BA%F0%9F%87%B8&obfsParam=uk.cloudflare.quest&path=/aries&obfs=websocket&alterId=0
+trojan://bb5b1337-fa9e-4e00-b8c6-1110e626171d@119.247.119.212:443/?allowInsecure=1&peer=sg-01.tiktokcdn.top#%E6%A1%89%E5%AE%89%F0%9F%87%AD%F0%9F%87%B0
 
-vmess://YXV0bzozZmZkZGM3Yy04MGEzLTQ2NzctYWI5ZS0zMGRhNDE5MGVjNmFANDcuMjQyLjIwNS4yNTU6NDk5MzU?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%BA%F0%9F%87%B8&path=/&obfs=none&alterId=0
+trojan://KLF0qOU0ZZGw5Tnu@45.64.22.55:443/?allowInsecure=1&peer=swift.protocolbuffer.com#%E6%A1%89%E5%AE%89%F0%9F%87%B2%F0%9F%87%B4
 
-trojan://e0ef6178-23ad-3385-9e72-b93820a847da@AZQT.xibai6.top:20745/?allowInsecure=1#%E6%A1%89%E5%AE%89%F0%9F%87%BA%F0%9F%87%B8
+vmess://YXV0bzo0MDcwZmRkZS00M2Q1LTRiM2YtZGJjZi03NzUxYzc3ZTRiZjZAODUuMTcuNS4xNTA6MzYzMDY?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%B3%F0%9F%87%B1&path=/Af5645tr&obfs=websocket&alterId=0
 
+trojan://bd3757fd-d35d-4843-9ba9-a673f8894f90@ru02.170203.xyz:34234/?allowInsecure=1&peer=ru02.170203.xyz#%E6%A1%89%E5%AE%89%F0%9F%87%B7%F0%9F%87%BA
+
+vmess://YXV0bzo1NDFjYTAyNi01OGQzLTQ4ZjEtZDZlZi0zYTA1NTQzZGRjYjdAMjExLjcyLjM1LjExMDo0NDM?remarks=%E6%A1%89%E5%AE%89&obfsParam=ru.tzccifq.ga&path=/&obfs=websocket&tls=1&alterId=0
+
+trojan://e90f6dea-23f9-47ec-ba23-e2eb5def2e78@hk4.kfcnode.xyz:443/?allowInsecure=1&peer=hk4.kfcnode.xyz#%E6%A1%89%E5%AE%89%F0%9F%87%BA%F0%9F%87%B8
+
+trojan://e90f6dea-23f9-47ec-ba23-e2eb5def2e78@hk1.kfcnode.xyz:443/?allowInsecure=1&peer=hk1.kfcnode.xyz#%E6%A1%89%E5%AE%89%F0%9F%87%BA%F0%9F%87%B8
+
+vmess://YXV0bzo4NzA4Nzg0OS0yZTg4LTQ5ZDUtOTExMy0yOWFiMzI5Mzk0MWFAYTUwYjRiNjQtNzYyMi01YTM0LTQ1YWItYjg2NTY5NTE2NDdlLmNubmljLnJpcDo4MA?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%BA%F0%9F%87%B8&obfsParam=tms.dingtalk.com&path=/&obfs=websocket&alterId=0
 
 #--------------------------------------------------=======================================---------------------------------------------------
 #--------------------------------------------------==================备用==================--------------------------------------------------
