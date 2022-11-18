@@ -10,43 +10,42 @@
 # 自己节点：
 
 
-ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@bs1.jymzffbquawl.com:3601/?plugin=obfs-local;obfs=http;obfs-host=c7ea4198729.microsoft.com;obfs-uri=/#%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3
-
-ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@bs1.jymzffbquawl.com:3602/?plugin=obfs-local;obfs=http;obfs-host=c7ea4198729.microsoft.com;obfs-uri=/#%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3
-
-ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@bs1.jymzffbquawl.com:3607/?plugin=obfs-local;obfs=http;obfs-host=c7ea4198729.microsoft.com;obfs-uri=/#%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3
-
-ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@bs1.jymzffbquawl.com:3608/?plugin=obfs-local;obfs=http;obfs-host=c7ea4198729.microsoft.com;obfs-uri=/#%E6%A1%89%E6%9A%97%F0%9F%87%A8%F0%9F%87%B3
-
-ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@bs1.jymzffbquawl.com:3605/?plugin=obfs-local;obfs=http;obfs-host=c7ea4198729.microsoft.com;obfs-uri=/#%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3
-
-trojan://922e2ee9-1357-4fe0-82d5-bfff637785af@cm.henet.top:30105/?allowInsecure=1#%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3
-
-ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@bs3.jymzffbquawl.com:3036/?plugin=obfs-local;obfs=http;obfs-host=c7ea4198729.microsoft.com;obfs-uri=/#%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3
-
-trojan://f8d19ba5-8684-45f2-8523-77dbea588955@kh.iamnotagoodman.com:443/?allowInsecure=1#%E6%A1%89%E5%AE%89%F0%9F%87%AD%F0%9F%87%B0
-
 vmess://YXV0bzpiZGMwNzMxZi02NzJhLTRhY2QtYTUwNC1iODA2NjgzMmJmMzFAaGsyLmN6czEwMDAuY29tOjg4ODU?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%AD%F0%9F%87%B0&obfs=none&tls=1&peer=hk2.czs1000.com&alterId=0
-
-vmess://YXV0bzpiZGMwNzMxZi02NzJhLTRhY2QtYTUwNC1iODA2NjgzMmJmMzFAaGsyLmN6czEwMDAuY29tOjg4ODU?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%AD%F0%9F%87%B0&obfs=none&tls=1&peer=hk2.czs1000.com&alterId=0
-
-vmess://YXV0bzpiZGMwNzMxZi02NzJhLTRhY2QtYTUwNC1iODA2NjgzMmJmMzFAaGsyLmN6czEwMDAuY29tOjg4ODU?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%AD%F0%9F%87%B0&obfs=none&tls=1&peer=hk2.czs1000.com&alterId=0
-
-vmess://YXV0bzpiZGMwNzMxZi02NzJhLTRhY2QtYTUwNC1iODA2NjgzMmJmMzFAanAzLmN6czEwMDAuY29tOjg4ODY?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%AF%F0%9F%87%B5&obfs=none&tls=1&peer=jp3.czs1000.com&alterId=0
-
-trojan://36443c4f-4487-48a6-8438-57bd7700b916@kr1.api-aws.com:443/?allowInsecure=1#%E6%A1%89%E5%AE%89%F0%9F%87%AF%F0%9F%87%B5
-
-vmess://YXV0bzpiZjZiYzM5ZS05NDUzLTQzYjMtODA1ZS03ZjExOTY1OTgxYTRAOC4yMTguODYuMjI2OjUxNjE2?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%B8%F0%9F%87%AC&path=/&obfs=none&alterId=0
-
-vmess://YXV0bzo2NTI5MTlhZi00YjBmLTQyMTEtOGYwNi05NTI5NThkMDUwMzhAOC4yMTguODAuMjA3OjU4Nzkz?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%B8%F0%9F%87%AC&path=/&obfs=none&alterId=0
-
-vmess://YXV0bzpiYzAzNWM5My00YTQ3LTRmMDYtODgzMy1mYWRjMDM1Mjc1MzlAOC4yMTguODMuMTQ4OjYzMjM5?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%B8%F0%9F%87%AC&path=/&obfs=none&alterId=0
 
 vmess://YXV0bzpiZGMwNzMxZi02NzJhLTRhY2QtYTUwNC1iODA2NjgzMmJmMzFAc2czLmN6czEwMDAuY29tOjg4ODM?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%B8%F0%9F%87%AC&obfs=none&tls=1&peer=sg3.czs1000.com&alterId=0
 
 vmess://YXV0bzpiZGMwNzMxZi02NzJhLTRhY2QtYTUwNC1iODA2NjgzMmJmMzFAa3IxLmN6czEwMDAuY29tOjg4ODc?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%B0%F0%9F%87%B7&obfs=none&tls=1&peer=kr1.czs1000.com&alterId=0
 
-vmess://YXV0bzo4N2VkMjg5Zi1jYWUzLTQ5YjQtYmJlMy0yM2RhMjk4YzBlODFANDcuMjQzLjM2LjM0OjU1OTg2?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%BA%F0%9F%87%B8&path=/&obfs=none&alterId=0
+vmess://YXV0bzpiZGMwNzMxZi02NzJhLTRhY2QtYTUwNC1iODA2NjgzMmJmMzFAanAzLmN6czEwMDAuY29tOjg4ODY?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%AF%F0%9F%87%B5&obfs=none&tls=1&peer=jp3.czs1000.com&alterId=0
+
+vmess://YXV0bzpiZGMwNzMxZi02NzJhLTRhY2QtYTUwNC1iODA2NjgzMmJmMzFAaGsxLmN6czEwMDAuY29tOjg4ODU?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%AD%F0%9F%87%B0&obfs=none&tls=1&peer=hk1.czs1000.com&alterId=0
+
+ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@bs1.jymzffbquawl.com:3608/?plugin=obfs-local;obfs=http;obfs-host=c7ea4198729.microsoft.com;obfs-uri=/#%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3
+
+ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@bs1.jymzffbquawl.com:3603/?plugin=obfs-local;obfs=http;obfs-host=c7ea4198729.microsoft.com;obfs-uri=/#%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3
+
+ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@bs1.jymzffbquawl.com:3605/?plugin=obfs-local;obfs=http;obfs-host=c7ea4198729.microsoft.com;obfs-uri=/#%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3
+
+ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@bs1.jymzffbquawl.com:3604/?plugin=obfs-local;obfs=http;obfs-host=c7ea4198729.microsoft.com;obfs-uri=/#%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3
+
+ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@bs1.jymzffbquawl.com:3606/?plugin=obfs-local;obfs=http;obfs-host=c7ea4198729.microsoft.com;obfs-uri=/#%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3
+
+ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@bs3.jymzffbquawl.com:6603/?plugin=obfs-local;obfs=http;obfs-host=c7ea4198729.microsoft.com;obfs-uri=/#%E6%A1%89%E5%AE%89%F0%9F%87%A8%F0%9F%87%B3
+
+vmess://YXV0bzo3ZWU1YTg0MC03NWQxLTM0YTgtYmQyYS0xODdjZGIyODY3OTJAdjIuY2xzbmV0Lm9ubGluZTo1NDM?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%AD%F0%9F%87%B0&path=/&obfs=none&alterId=0
+
+vmess://YXV0bzo3ZWU1YTg0MC03NWQxLTM0YTgtYmQyYS0xODdjZGIyODY3OTJAdjItaGtnLWNtLmNsc25ldC5vbmxpbmU6NTQz?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%AD%F0%9F%87%B0&path=/&obfs=none&alterId=0
+
+vmess://YXV0bzplNWU1NTY0Ni1kMGJmLTNjY2QtOTIwMS04ZWI2YzZlZDJkM2NAdjJrcjYudHV0dTIueHl6OjQ0Mw?remarks=%E6%A1%89%E5%AE%89%F0%9F%87%AF%F0%9F%87%B5&obfsParam=v2kr6.tutu2.xyz&path=/tu&obfs=websocket&tls=1&alterId=0
+
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.121.74.146:2053/?allowInsecure=1#%E6%A1%89%E5%AE%89%F0%9F%87%AF%F0%9F%87%B5
+
+trojan://Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS@45.64.22.23:443/?allowInsecure=1&peer=reooec.freetrade.link#%E6%A1%89%E5%AE%89%F0%9F%87%B2%F0%9F%87%B4
+
+trojan://81d93f62-15a2-4994-adb9-0b5d906aac7e@138.2.114.255:443/?allowInsecure=1#%E6%A1%89%E5%AE%89%F0%9F%87%BA%F0%9F%87%B8
+
+trojan://6578df36-8b6f-4411-b42a-521877145573@ocrb1.happyfree.top:443/?allowInsecure=1#%E6%A1%89%E5%AE%89%F0%9F%87%BA%F0%9F%87%B8
+
 
 #--------------------------------------------------=======================================---------------------------------------------------
 #--------------------------------------------------==================备用==================--------------------------------------------------
